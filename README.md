@@ -10,7 +10,7 @@ To effectively address these issues, we propose the transformer-based detectors 
 We first employ the lightweight high performance GPU network V2 (HGNetV2) backbone to extract multiscale deep
 semantic features, while the subsequent cross-modal encoder further enriches these representations by integrating both visual and textual information. We then introduce the foreground-guided feature refinement module, which enables interlayer feature fusion using high-level contextual guidance to significantly improve foreground recognition. Concurrently, we propose the location perception fusion strategy, which integrates multiscale features to enhance their consistency and discriminative capabilities. Finally, the refined features are passed through a fine-grained distribution refinement module for iterative optimization of the output distribution. Comprehensive experimental results demonstrate that DFFR outperforms existing stateof-the-art methods in multiple metrics, including average
 
-![pipeline](./Overall.png)
+![pipeline](./img/Overall.png)
 
 ## Video Demo
 
