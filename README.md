@@ -78,6 +78,15 @@ python train.py -c configs/dffr/dffr_hgnetv2_l_DUO.yml --use-amp --seed=0 --devi
 ```
 python train.py -c configs/dffr/dffr_hgnetv2_l_DUO.yml --test-only -r xx.pth
 ```
+
+
+## Project Files
+
+Full project files can be downloaded from Baidu Netdisk:
+
+Link: https://pan.baidu.com/s/1ceg8WOoyTM6T1qGCV8jILg  
+Extraction Code: 2387
+
 ## Checkpoints
 
 We provide the most recent trained weights of our method for testing and reproducibility.
