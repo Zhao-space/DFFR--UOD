@@ -91,8 +91,8 @@ Extraction Code: 2387
 
 We provide the most recent trained weights of our method for testing and reproducibility.
 
-- Link: 
-- Extraction Code: 
+- Link: https://pan.baidu.com/s/1aO7cwVzvwE34UCgxYVBO8Q
+- Extraction Code: 1456
 
 ## Citation
 ```
